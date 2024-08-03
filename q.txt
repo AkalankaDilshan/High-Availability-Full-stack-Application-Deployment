@@ -1,0 +1,25 @@
+That sounds like a great idea! Let's start with a scenario. Here's one for you:
+
+### Scenario:
+Your company, "TechCorp," is planning to launch a new web application that allows users to upload and share photos. The web application needs to be highly available, scalable, and secure. The initial requirements are as follows:
+
+1. **Hosting:** The application should be hosted on AWS.
+2. **Storage:** User-uploaded photos should be stored securely.
+3. **Database:** The application needs a relational database to store user data and metadata about the photos.
+4. **Compute:** The application should be able to handle variable traffic, scaling up and down as needed.
+5. **Security:** The application must ensure that user data and photos are protected.
+6. **Monitoring and Logging:** The application should be monitored, and logs should be collected for troubleshooting and analysis.
+7. **Backup and Recovery:** There should be a strategy for backing up data and recovering from failures.
+
+### Task:
+Design an architecture on AWS that meets these requirements. Explain your choices for the following:
+
+1. **Compute resources** (e.g., EC2, ECS, Lambda)
+2. **Storage solutions** (e.g., S3, EFS)
+3. **Database** (e.g., RDS, Aurora)
+4. **Networking** (e.g., VPC, Subnets, Load Balancers)
+5. **Security measures** (e.g., IAM, Security Groups, KMS)
+6. **Monitoring and Logging** (e.g., CloudWatch, CloudTrail)
+7. **Backup and Recovery** (e.g., S3 Backup, RDS Backup)
+
+Once you have your solution ready, share it here, and I'll provide feedback.
